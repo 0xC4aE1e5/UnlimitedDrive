@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Google+Sans+Mono");
+
+body {
+  font-family: "Google Sans Mono";
+  background-color: black;
+  color: greenyellow;
+}
+
+a {
+  color: lightblue;
+}
